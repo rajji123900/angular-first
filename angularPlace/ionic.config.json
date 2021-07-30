@@ -1,0 +1,7 @@
+{
+  "name": "my-places",
+  "integrations": {},
+  "type": "ionic-angular",
+  "v2": true,
+  "typescript": true
+}
